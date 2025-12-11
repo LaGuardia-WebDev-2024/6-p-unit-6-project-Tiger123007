@@ -13,7 +13,19 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
 
+  ellipse(270,20,150,40); 
+  ellipse(240,120,300,200); 
+     ellipse(210,100,10,35); 
+   ellipse(230,400,150,40); 
+   ellipse(230,300,100,150)
+   fill(0,0,0)
+  ellipse(352,145,80,150)
+
+   ellipse(352,140,60,150)
+  ellipse(80,150,50,40); 
+    ellipse(210,100,10,35);
   
+   
 
 }
 
