@@ -23,7 +23,7 @@ void draw(){
        ellipse(240,120,300,200); 
    ellipse(230,290,80,140)
    ellipse(352,145,80,150);
-  
+
 
   fill(255,0,0)
    rect(205,210,50,25)
@@ -37,7 +37,15 @@ void draw(){
   ellipse(90,155,30,30); 
     ellipse(210,100,10,35);
   ellipse(265,340,25,20)
-    
+  ellipse(268,300,10,35)
+  
+  noFill() 
+   arc(156,145,150,130,radians(10),radians(80))
+   arc(157,145,150,130,radians(10),radians(80))
+   arc(158,145,150,130,radians(10),radians(80))
+   arc(159,145,150,130,radians(10),radians(80))
+ arc(160,145,150,130,radians(10),radians(80))
+  arc(250,280,30,130,radians(70),radians(180))
 
 }
 
