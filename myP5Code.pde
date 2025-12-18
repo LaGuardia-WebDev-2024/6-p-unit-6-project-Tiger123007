@@ -12,11 +12,11 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-
+//face
   ellipse(270,20,150,40); 
-  
+
      ellipse(210,100,10,35); 
-   ellipse(210,400,150,40);
+   ellipse(210,397,150,40);
       ellipse(240,400,150,40); 
       ellipse(80,150,50,40); 
       ellipse(280,340,70,20)
@@ -24,7 +24,7 @@ void draw(){
    ellipse(230,290,80,140)
    ellipse(352,145,80,150);
 
-
+//black stuff
   fill(255,0,0)
    rect(205,210,50,25)
   
@@ -32,13 +32,13 @@ void draw(){
   ellipse(215,365,3,25)
   ellipse(260,360,3,40)
    ellipse(240,370,3,25)
-
+ellipse(150,400,10,5)
    ellipse(352,140,60,150);
   ellipse(90,155,30,30); 
     ellipse(210,100,10,35);
   ellipse(265,340,25,20)
   ellipse(268,300,10,35)
-  
+  //mouth and arms
   noFill() 
    arc(156,145,150,130,radians(10),radians(80))
    arc(157,145,150,130,radians(10),radians(80))
